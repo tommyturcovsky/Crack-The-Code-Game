@@ -1,0 +1,77 @@
+.terminal {
+    background-color: black;
+    background-image: radial-gradient(
+      #009600bf, #000000 120%
+    );
+    height: 100vh;
+    color: #ffffff;
+    font-family: OCR A Std, monospace;
+    text-shadow: 0 0 5px #C8C8C8;
+    border: 30px #ffffff;
+}
+
+.terminal-lines {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: repeating-linear-gradient(#fafafa, #fafafa 2px, #6464640c 2px, #6464640c 3px);
+    opacity: .15;
+    pointer-events: none;
+}
+
+.app-title {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.how-to-play {
+    margin-top: .5rem;
+    font-style: italic;
+}
+
+.how-to-play:hover {
+    cursor: pointer;
+    color: #3ce409;
+}
+
+.modal-how-to {
+    background-color: black;
+    background-image: radial-gradient(
+      #009600bf, #000000 120%
+    );
+    color: #ffffff;
+    font-family: OCR A Std, monospace;
+    text-shadow: 0 0 5px #C8C8C8;
+    border: 30px #ffffff;
+    height: 100%;
+    padding: 1rem;
+}
+
+.modal-terminal-lines {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: repeating-linear-gradient(#fafafa, #fafafa 2px, #6464640c 2px, #6464640c 3px);
+    opacity: .15;
+    pointer-events: none;
+}
+
+.how-to-title-container {
+    border-bottom: solid 2px;
+}
+
+.modal-function-button {
+    text-align: right;
+}
+
+.modal-function-button:hover {
+    cursor: pointer;
+    color: #3ce409;
+}
+
+
+

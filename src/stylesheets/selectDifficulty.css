@@ -1,0 +1,17 @@
+
+.bdr {
+    border: 3px solid;
+}
+
+.difficulty-selection {
+    list-style-type: none;
+}
+
+.difficulty:hover {
+    cursor: pointer;
+    color: #3ce409;
+}
+
+.hide {
+    display: none;
+}

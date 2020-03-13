@@ -1,0 +1,87 @@
+.codeOption {
+    list-style: none;
+    display: inline;
+}
+
+.codeOption:hover {
+    cursor: pointer;
+    color: #3ce409;
+}
+
+.incorrectWord {
+    color: #575757;
+    pointer-events: none;
+}
+
+.incorrectWord:hover {
+    cursor: default;
+    color: #575757
+}
+
+.game-info {
+    border-bottom: 1px solid #ffffff;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.popup-title-container {
+    border-bottom: 1px solid #ffffff;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-bottom: .5rem;
+}
+
+.text-block-display {
+    display: block;
+}
+
+.format-wordList{
+    margin: 0 auto;
+    padding: 0;
+    display: inline;
+}
+
+.popup-message {
+    z-index: 1;
+    margin: auto;  
+    position: absolute;
+    left:0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000000c7;
+}
+
+.inner-popup {
+    z-index: 2;
+    border: 1px solid #ffffff;
+    padding: 1rem
+}
+
+.divider {
+    width:auto;
+    height:.2rem;
+    display:inline-block;
+}
+
+.play-again {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.play-again {
+    background: #ffffff;
+    margin:0 auto;
+    display:block;
+}
+
+.play-again:hover {
+    background: #3ce409;
+    border: 1px solid #269604;
+}
