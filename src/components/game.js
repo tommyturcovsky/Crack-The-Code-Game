@@ -194,7 +194,7 @@ render() {
         if (props.numOfPositionsCorrect !== null) {
             return (
                 <div>
-                    <h4>[Number of Positions Correct {props.numOfPositionsCorrect}]</h4>
+                    <h4>[Number of Positions Correct: {props.numOfPositionsCorrect}]</h4>
                 </div>
             )
         } else {
