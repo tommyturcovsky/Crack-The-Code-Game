@@ -60,6 +60,18 @@
     pointer-events: none;
 }
 
+@media screen and (max-width: 650px) {
+    .modal-how-to {
+      height: auto;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .modal-terminal-lines {
+        height: auto;
+    }
+}
+
 .how-to-title-container {
     border-bottom: solid 2px;
 }
