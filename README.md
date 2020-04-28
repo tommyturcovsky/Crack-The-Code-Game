@@ -16,7 +16,7 @@ Happy Hacking!
 
 ## Game Screenshots
 #### Difficulty Select Screen
-<img src="https://drive.google.com/uc?id=1uZyhfemK744LZKV2y0kwBFtB-1rkbKGv">
+<img src="https://drive.google.com/uc?id=1uZyhfemK744LZKV2y0kwBFtB-1rkbKGv" width=600>
 
 #### Gameplay Screen
-<img src="https://drive.google.com/uc?id=1avYHVq2h5m9Gb-B4OcILUUIoi1ctUjlQ">
+<img src="https://drive.google.com/uc?id=1avYHVq2h5m9Gb-B4OcILUUIoi1ctUjlQ" width=600>
